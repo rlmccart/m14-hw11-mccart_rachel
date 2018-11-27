@@ -12,13 +12,16 @@ header {
     color: slategray;
     background-color: paleturquoise;
 }
-p {
+h2 {
     font-family: 'Roboto', sans-serif;
     font-size: 1.5rem;
     color: slategray;
     padding-top: 50px;
 }
 footer p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    color: slategray;
     position: fixed;
     left: 0;
     bottom: 25px;
